@@ -108,7 +108,7 @@ export default function About() {
                         <div className="flex space-x-4">
                             <a
                                 className="bg-cyan-900 hover:bg-cyan-950 text-white font-bold py-3 px-6 rounded"
-                                href="/resume.pdf"
+                                href="/assets/resume.pdf"
                                 target="_blank"
                                 rel="noopener noreferrer"
                             >
