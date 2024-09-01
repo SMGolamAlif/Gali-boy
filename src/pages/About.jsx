@@ -10,12 +10,12 @@ export default function About() {
             <img
                 className="w-48 h-48 rounded-full mr-4 hover:scale-105 transition ease-in-out duration-300 m-5 p-5"
                 src="https://avatars.githubusercontent.com/u/73209315?v=4"
-                alt="gali Boy"
+                alt="Saadman Galib"
             />
             <div className="flex flex-col md:flex-row items-center">
                 <div className="md:ml-8">
                     <p className="mb-4 text-gray-600 dark:text-gray-400">
-                        Hi, my name is gali Boy and I'm a web developer. I'm
+                        Hi, my name is Saadman Galib and I'm a web developer. I'm
                         passionate about building scalable, efficient and
                         user-friendly web applications. I'm also a big fan of
                         open source and I try to contribute to the community as
