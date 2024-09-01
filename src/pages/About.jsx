@@ -10,12 +10,12 @@ export default function About() {
             <img
                 className="w-48 h-48 rounded-full mr-4 hover:scale-105 transition ease-in-out duration-300 m-5 p-5"
                 src="https://avatars.githubusercontent.com/u/73209315?v=4"
-                alt="gali Boy"
+                alt="Saadman Galib"
             />
             <div className="flex flex-col md:flex-row items-center">
                 <div className="md:ml-8">
                     <p className="mb-4 text-gray-600 dark:text-gray-400">
-                        Hi, my name is gali Boy and I'm a web developer. I'm
+                        Hi, my name is Saadman Galib and I'm a web developer. I'm
                         passionate about building scalable, efficient and
                         user-friendly web applications. I'm also a big fan of
                         open source and I try to contribute to the community as
@@ -41,22 +41,21 @@ export default function About() {
                             <li>Tailwind CSS</li>
                             <li>Git</li>
                         </ul>
-                        <h2 className="text-2xl font-bold mb-4 text-gray-800 dark:text-white mt-4">
+                        <h2 className="text-2xl font-bold mb-4 text-gray-800 dark:text-white my-8">
                             My Experience
                         </h2>
                         <ul className="grid grid-cols-2 md:grid-cols-3 gap-4 text-gray-600 dark:text-gray-400">
                             <li>Freelancer</li>
-                            <li>Frontend Developer at Midenus</li>
-                            <li>Backend Developer at Code Empire</li>
+                            
                         </ul>
-                        <h2 className="text-2xl font-bold mb-4 text-gray-800 dark:text-white my-4">
+                        <h2 className="text-2xl font-bold mb-4 text-gray-800 dark:text-white my-8">
                             My Projects
                         </h2>
                         <ul className="grid grid-cols-2 md:grid-cols-3 gap-4 text-gray-600 dark:text-gray-400">
                             <li>
                                 <a
                                     className="hover:underline"
-                                    href="https://github.com/galiboy/galiboy"
+                                    href="https://saadmangalib.netlify.app/"
                                 >
                                     My Personal Website
                                 </a>
@@ -70,7 +69,7 @@ export default function About() {
                                 </a>
                             </li>
                         </ul>
-                        <h2 className="text-2xl font-bold mb-4 text-gray-800 dark:text-white mt-4">
+                        <h2 className="text-2xl font-bold mb-4 text-gray-800 dark:text-white my-4">
                             Social Links
                         </h2>
                         <ul className="grid grid-cols-2 md:grid-cols-3 gap-4 text-gray-600 dark:text-gray-400">
@@ -102,7 +101,7 @@ export default function About() {
                                 </a>
                             </li>
                         </ul>
-                        <h2 className="text-2xl font-bold mb-4 text-gray-800 dark:text-white mt-4">
+                        <h2 className="text-2xl font-bold mb-4 text-gray-800 dark:text-white mt-8">
                             Download or View My Resume
                         </h2>
                         <div className="flex space-x-4">
